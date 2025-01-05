@@ -5,7 +5,7 @@
 We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
 
-## What I will learn
+## What I have learned
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
